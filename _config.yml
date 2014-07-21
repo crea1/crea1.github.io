@@ -4,8 +4,8 @@ email: your-email@domain.com
 description: "My rants about random things i care about."
 baseurl: ""
 url: "http://blog.suiram.org"
-github.username: crea1
-twitter.username: marius_lzm
+githubusername: crea1
+twitterusername: marius_lzm
 
 
 # Build settings
