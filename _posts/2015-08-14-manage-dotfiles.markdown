@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Manage dotfiles"
+title:  "Manage dotfiles with GIT and GNU Stow"
 date:   2015-08-14 10:00:00
 categories: linux
 ---
